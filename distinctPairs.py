@@ -48,3 +48,11 @@ a = [1, 18, 13, 6, 10, 9]
 k = 19
 pairs = distinctPairs(n, a, k)
 print(pairs)
+
+
+OUTPUT
+[1, 6, 9, 10, 13, 18]
+[6, 9, 10, 13]
+[9, 10]
+[]
+3
